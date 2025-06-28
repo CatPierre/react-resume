@@ -52,7 +52,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Onatrio based <strong className="text-stone-100">Computer Science MSc Granduate</strong>, currently working
+        I'm an Ontario based <strong className="text-stone-100">Computer Science MSc Graduate</strong>, currently working
         at <strong className="text-stone-100">WDG Public Health</strong> helping automate and modernize various projects, namely the well water pipeline.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
@@ -78,8 +78,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I am a person who seeks value and meaning in their work, which is why I gravitate towards working in the public sector. Everyday working at WDGPH has been fullfilling and meaningful, feeling the work being done matters, 
-  and contributes to a greater puzzle that benefits the community is a key part of why i enjoy working at WDGPH`,
+  description: `I am a person who seeks value and meaning in their work, which is why I gravitate towards working in the public sector. Every day working at WDGPH has been fulfilling and meaningful. Feeling the work being done matters and contributes to a greater puzzle that benefits the community is a key part of why I enjoy working at WDGPH.`,
   aboutItems: [
     {label: 'Location', text: 'Guelph, ON', Icon: MapIcon},
     {label: 'Age', text: '28', Icon: CalendarIcon},

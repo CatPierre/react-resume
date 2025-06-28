@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<img alt="GitHub release (latest by date including pre-releases" src="https://img.shields.io/github/v/release/tbakerx/react-resume-template?include_prereleases">
+<img alt="GitHub release (latest by date including pre-releases" src="https://img.shields.io/github/v/release/tbakerx/react-resume?include_prereleases">
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tbakerx/react-resume-template?style=flat">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tbakerx/react-resume?style=flat">
 
-<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/tbakerx/react-resume-template?style=flat&color=success">
+<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/tbakerx/react-resume?style=flat&color=success">
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tbakerx/react-resume-template?style=flat&color=yellow">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tbakerx/react-resume?style=flat&color=yellow">
 
-<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/tbakerx/react-resume-template/react?style=flat">
+<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/tbakerx/react-resume/react?style=flat">
 
 <img alt="Github Repo Sponsors" src="https://img.shields.io/github/sponsors/tbakerx?style=flat&color=blueviolet">
 
@@ -31,7 +31,7 @@
 4. Re-organized data population file for customizing site.
 5. Significant improvement/modernization of all site sections
  
-**Looking for the old version? You can find it [here.](https://github.com/tbakerx/react-resume-template/releases/tag/v1.0.0)**
+**Looking for the old version? You can find it [here.](https://github.com/tbakerx/react-resume/releases/tag/v1.0.0)**
 
 ## Description
 
@@ -76,9 +76,9 @@ Deploying your new site to Vercel is simple, and can be done by following their 
 
 ## Stargazers
 
-[![Stargazers repo roster for @tbakerx/react-resume-template](https://reporoster.com/stars/dark/tbakerx/react-resume-template)](https://github.com/tbakerx/react-resume-template/stargazers)
+[![Stargazers repo roster for @tbakerx/react-resume](https://reporoster.com/stars/dark/tbakerx/react-resume)](https://github.com/tbakerx/react-resume/stargazers)
 
 ## Forkers
 
-[![Forkers repo roster for @tbakerx/react-resume-template](https://reporoster.com/forks/dark/tbakerx/react-resume-template)](https://github.com/tbakerx/react-resume-template/network/members)
+[![Forkers repo roster for @tbakerx/react-resume](https://reporoster.com/forks/dark/tbakerx/react-resume)](https://github.com/tbakerx/react-resume/network/members)
 
